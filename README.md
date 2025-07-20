@@ -21,6 +21,21 @@
 
 ## 🛠️ Skills
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="30" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="30" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="30" width="40" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" height="30" width="40" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="30" width="40" />
+  </a>
   <a href="https://react.dev" target="_blank">
     <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="30" width="40" />
   </a>
