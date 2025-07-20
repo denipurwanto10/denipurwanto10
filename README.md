@@ -9,13 +9,17 @@
 
 
 
+
+
 ## 🚀 About Me
+
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 - 🎓 Bachelor of Informatics Engineering – Universitas Langlangbuana  
 - 💡 Passionate about **Web Development** and **Geospatial Systems**
 - 🌍 Based in **Bandung, Indonesia**
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
-- 📚 Currently learning: `React`, `Laravel`, and `Clean Architecture`
+- 📚 Currently learning: React, Laravel, and Clean Architecture
 
 
 
