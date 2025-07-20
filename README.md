@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=React+%2B+Laravel+Developer;Web+GIS+%7C+REST+API;Open+to+Collaborate+%F0%9F%91%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=React+%2B+Laravel+Developer;Web+GIS+%7C+REST+API;Open+to+Collaborate+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
+
 
 
 
