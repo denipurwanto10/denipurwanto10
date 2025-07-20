@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#f97316;">Deni Purwanto</span></h1>
+<h1 align="center">I'm <span style="color:#f97316;">Deni Purwanto 👋</span></h1>
 <p align="center">
   💻 Full-Stack Developer | 🌐 Web Developer | 🎨 UI/UX Designer
 </p>
