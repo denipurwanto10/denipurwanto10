@@ -23,15 +23,19 @@
 - 📚 Currently learning: React, Laravel, and Clean Architecture
 
 
-
 ## 🛠️ Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="30" width="40" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="30" width="40" />
+  </a>
+  <a href="https://jquery.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" height="30" width="40" />
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" height="30" width="40" />
@@ -67,10 +71,6 @@
     <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="30" width="40" />
   </a>
 </p>
-
-
-
-
 
 ## 📫 Let's Connect
 <p align="left">
