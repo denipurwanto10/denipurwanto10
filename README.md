@@ -20,59 +20,82 @@
 
 
 ## 🛠️ Skills
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="30" width="40" />
+<div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  <img width="12" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   </a>
-  <a href="https://jquery.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
   </a>
-  <a href="https://react.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   </a>
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   </a>
-  <a href="https://codeigniter.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeigniter/EE4623" alt="CodeIgniter" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://codeigniter.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" width="40"/>
-</a>
-  <a href="https://leafletjs.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/leaflet/199900" alt="Leaflet" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   </a>
-  <a href="https://qgis.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/qgis/589632" alt="QGIS" height="30" width="40" />
+  <img width="12" />
+
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   </a>
-  <a href="https://www.figma.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="30" width="40" />
-  </a>
-</p>
+</div>
+
 
 ## 📫 Let's Connect
 <p align="left">
@@ -96,7 +119,6 @@
 
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denipurwanto10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
 
 
 
