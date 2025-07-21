@@ -43,6 +43,8 @@
 
 
 ## 📫 Let's Connect
+
+<img align="right" height="80" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 <p align="left">
 <a href="https://www.linkedin.com/in/deni-purwanto-b9a557223/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
