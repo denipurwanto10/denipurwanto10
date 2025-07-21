@@ -93,6 +93,15 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<br clear="both">
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph.svg">
+</picture>
 <br clear="both">
 
 <div align="center">
