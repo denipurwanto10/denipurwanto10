@@ -96,7 +96,14 @@
 
 <br clear="both">
 
-
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+<br clear="both">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=orange" alt="profile views"/>
