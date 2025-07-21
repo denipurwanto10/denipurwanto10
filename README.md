@@ -96,13 +96,13 @@
 
 <br clear="both">
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph.svg">
 </picture>
-</div>
+
+###
 <br clear="both">
 
 <p align="center">
