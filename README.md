@@ -102,7 +102,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph.svg">
 </picture>
 
+<img src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/snake.svg" alt="Snake animation" />
+
 ###
+
 <br clear="both">
 
 <p align="center">
