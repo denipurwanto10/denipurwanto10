@@ -97,13 +97,10 @@
 <br clear="both">
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph.svg">
-</picture>
-
+  <img alt="pacman contribution graph dark" src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph-dark.svg" />
 </div>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=orange" alt="profile views"/>
