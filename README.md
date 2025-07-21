@@ -8,10 +8,6 @@
 </p>
 
 
-
-
-
-
 ## 🚀 About Me
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -33,6 +29,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="30" width="40" />
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="30" width="40" />
   </a>
   <a href="https://jquery.com" target="_blank">
     <img src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" height="30" width="40" />
