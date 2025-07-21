@@ -96,10 +96,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img alt="pacman contribution graph dark" src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/pacman-contribution-graph-dark.svg" />
-</div>
-
 
 
 <p align="center">
