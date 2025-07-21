@@ -103,15 +103,10 @@
 </picture>
 </div>
 
-
-
-
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=orange" alt="profile views"/>
 </p>
+
 
 <p align="center">
   <em>“Strive for progress, not perfection.”</em>
