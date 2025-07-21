@@ -60,6 +60,9 @@
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="30" width="40" />
   </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" width="40"/>
+</a>
   <a href="https://leafletjs.com" target="_blank">
     <img src="https://cdn.simpleicons.org/leaflet/199900" alt="Leaflet" height="30" width="40" />
   </a>
