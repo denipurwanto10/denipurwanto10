@@ -1,6 +1,6 @@
 <h1 align="center">I'm <span style="color:#f97316;">Deni Purwanto 👋</span></h1>
 <p align="center">
-  💻 Full-Stack Developer | 🌐 Web Developer | 🎨 UI/UX Designer
+  💻 Full-Stack Developer | 🌐 Web Developer | 🎨 UI/UX Design
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 - 🎓 Bachelor of Informatics Engineering – Universitas Langlangbuana  
-- 💡 Passionate about **Web Development** and **Geospatial Systems**
+- 💡 Passionate about **Web Development** and **UI/UX Design**
 - 🌍 Based in **Bandung, Indonesia**
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
 - 📚 Currently learning: React, Laravel, and Clean Architecture
