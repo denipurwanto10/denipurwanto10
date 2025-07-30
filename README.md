@@ -63,7 +63,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 <img src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
