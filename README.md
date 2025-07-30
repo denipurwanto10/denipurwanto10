@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=React+%2B+Codeigniter+Developer;Web+Framework+%7C+REST+API;Open+to+Collaborate+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
-
 ## 🚀 About Me
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -17,7 +16,6 @@
 - 🌍 Based in **Bandung, Indonesia**
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
 - 📚 Currently learning: React, Laravel, and Clean Architecture
-
 
 ## 🛠️ Skills
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
@@ -38,9 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" style="display: block;" />
 </div>
 
-
 ###
-
 
 ## 📫 Let's Connect
 
@@ -60,26 +56,20 @@
 </a>
 </p>
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=denipurwanto10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📊 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denipurwanto10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/snake.svg" alt="Snake animation" />
-
-
 
 <br clear="both">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=orange" alt="profile views"/>
 </p>
-
 
 <p align="center">
   <em>“Strive for progress, not perfection.”</em>
