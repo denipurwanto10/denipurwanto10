@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0061c3"/>
 <h1 align="center">I'm <span style="color:#f97316;">Deni Purwanto 👋</span></h1>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
@@ -150,3 +151,4 @@
 <p align="center">
   <em>“Strive for progress, not perfection.”</em>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0061c3&height=100&section=footer"/>
