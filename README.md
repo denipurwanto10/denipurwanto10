@@ -44,10 +44,10 @@
       <img src="./gif/java.gif" height="40" width="50" alt="Java Icon" /><br>Java
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="40" width="50" alt="REST API Icon" /><br>REST API
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="100" width="50" alt="REST API Icon" /><br>REST API
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" height="40" width="50" alt="GitHub Icon" /><br>GitHub
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" height="100" width="50" alt="GitHub Icon" /><br>GitHub
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" height="100" width="50" alt="JavaScript Icon" /><br>JavaScript
