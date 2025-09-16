@@ -33,11 +33,11 @@
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" height="30" width="40" alt="JavaScript Icon" /><br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=ts" height="30" width="40" alt="TypeScript Icon" /><br>TypeScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=html" height="30" width="40" alt="HTML Icon" /><br>HTML
     </td>
@@ -53,14 +53,14 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=jquery" height="30" width="40" alt="jQuery Icon" /><br>jQuery
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nodejs" height="30" width="40" alt="Node.js Icon" /><br>Node.js
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=mysql" height="30" width="40" alt="MySQL Icon" /><br>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="40" alt="WordPress Icon" /><br>WordPress
     </td>
@@ -73,8 +73,6 @@
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="VSCode Icon" /><br>VSCode
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=figma" height="30" width="40" alt="Figma Icon" /><br>Figma
     </td>
@@ -87,10 +85,6 @@
   </tr>
 </table>
 
-
-
-
-###
 
 ## 📫 Let's Connect
 
