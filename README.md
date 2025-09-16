@@ -50,7 +50,7 @@
       <img src="https://techstack-generator.vercel.app/github-icon.svg" height="40" width="50" alt="GitHub Icon" /><br>GitHub
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="80" width="50" alt="JavaScript Icon" /><br>JavaScript
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="100" width="50" alt="JavaScript Icon" /><br>JavaScript
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React Icon" /><br>React
