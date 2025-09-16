@@ -15,75 +15,78 @@
 ## 🛠️ Skills
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="./gif/java.gif" height="40" alt="Java Icon" /><br>Java
+    <td align="center" width="80">
+      <img src="./gif/java.gif" height="30" width="40" alt="Java Icon" /><br>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API Icon" /><br>REST API
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="30" width="40" alt="REST API Icon" /><br>REST API
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL Icon" /><br>PostgreSQL
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postgres" height="30" width="40" alt="PostgreSQL Icon" /><br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub Icon" /><br>GitHub
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" height="30" width="40" alt="GitHub Icon" /><br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman Icon" /><br>Postman
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postman" height="30" width="40" alt="Postman Icon" /><br>Postman
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript Icon" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript Icon" /><br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML Icon" /><br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS Icon" /><br>CSS
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="30" width="40" alt="JavaScript Icon" /><br>JavaScript
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap Icon" /><br>Bootstrap
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=ts" height="30" width="40" alt="TypeScript Icon" /><br>TypeScript
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Icon" /><br>React
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" height="30" width="40" alt="HTML Icon" /><br>HTML
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery Icon" /><br>jQuery
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=css" height="30" width="40" alt="CSS Icon" /><br>CSS
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js Icon" /><br>Node.js
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="30" width="40" alt="Bootstrap Icon" /><br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL Icon" /><br>MySQL
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" alt="React Icon" /><br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress Icon" /><br>WordPress
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel Icon" /><br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="CodeIgniter Icon" /><br>CodeIgniter
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Icon" /><br>VSCode
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=jquery" height="30" width="40" alt="jQuery Icon" /><br>jQuery
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma Icon" /><br>Figma
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="30" width="40" alt="Node.js Icon" /><br>Node.js
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva Icon" /><br>Canva
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=mysql" height="30" width="40" alt="MySQL Icon" /><br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello Icon" /><br>Trello
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="40" alt="WordPress Icon" /><br>WordPress
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=laravel" height="30" width="40" alt="Laravel Icon" /><br>Laravel
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" width="40" alt="CodeIgniter Icon" /><br>CodeIgniter
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="VSCode Icon" /><br>VSCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=figma" height="30" width="40" alt="Figma Icon" /><br>Figma
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="40" alt="Canva Icon" /><br>Canva
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="40" alt="Trello Icon" /><br>Trello
     </td>
   </tr>
 </table>
+
 
 
 
