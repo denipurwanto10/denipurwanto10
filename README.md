@@ -4,7 +4,7 @@
 </div>
 
 ## 🚀 About Me
- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MThnbWNkMGtkNmp0ejE1emZndXc0MDE5YW5objZoYmozM3BvaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/W61JIcgzYPX47pOgR8/giphy.gif" width="200"/>
+ <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MThnbWNkMGtkNmp0ejE1emZndXc0MDE5YW5objZoYmozM3BvaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/W61JIcgzYPX47pOgR8/giphy.gif" width="150"/>
 
 - 🎓 Bachelor of Informatics Engineering – Universitas Langlangbuana  
 - 💡 Passionate about **Web Development** and **UI/UX Designer**
