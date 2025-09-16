@@ -50,7 +50,7 @@
       <img src="https://techstack-generator.vercel.app/github-icon.svg" height="40" width="50" alt="GitHub Icon" /><br>GitHub
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40" width="50" alt="JavaScript Icon" /><br>JavaScript
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="80" width="50" alt="JavaScript Icon" /><br>JavaScript
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React Icon" /><br>React
@@ -68,8 +68,8 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" width="50" alt="MySQL Icon" /><br>MySQL
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="50" alt="WordPress Icon" /><br>WordPress
+     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=php" height="40" width="50" alt="PHP Icon" /><br>PHP
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=laravel" height="40" width="50" alt="Laravel Icon" /><br>Laravel
@@ -92,6 +92,15 @@
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="50" alt="Trello Icon" /><br>Trello
+    </td>
+   <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="50" alt="WordPress Icon" /><br>WordPress
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vue" height="40" width="50" alt="Vue.js Icon" /><br>Vue.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="50" alt="Tailwind Icon" /><br>Tailwind
     </td>
   </tr>
 </table>
