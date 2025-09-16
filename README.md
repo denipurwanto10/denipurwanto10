@@ -59,15 +59,11 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochammadqaysa/mochammadqaysa/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mochammadqaysa/mochammadqaysa/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/mochammadqaysa/mochammadqaysa/output/pacman-contribution-graph.svg">
-  </picture>
 </div>
 <img src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/snake.svg" alt="Snake animation" />
-
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
 <br clear="both">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=orange" alt="profile views"/>
