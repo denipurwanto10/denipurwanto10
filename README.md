@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 🚀 About Me
  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MThnbWNkMGtkNmp0ejE1emZndXc0MDE5YW5objZoYmozM3BvaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/W61JIcgzYPX47pOgR8/giphy.gif" width="150"/>
@@ -11,6 +12,7 @@
 - 🌍 Based in **Bandung, Indonesia**
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
 - 📚 Currently learning: React, Laravel, and Clean Architecture
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 🛠️ Skills
 <table>
@@ -93,6 +95,7 @@
     </td>
   </tr>
 </table>
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 📫 Let's Connect
 
@@ -111,10 +114,11 @@
   <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
 </a>
 </p>
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=denipurwanto10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
