@@ -14,27 +14,14 @@
 
 ## 🛠️ Skills
 <table>
+  <!-- Baris 1 -->
   <tr>
-    <td align="center" width="100">
-      <img src="./gif/java.gif" height="40" width="50" alt="Java Icon" /><br>Java
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="40" width="50" alt="REST API Icon" /><br>REST API
-    </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" height="40" width="50" alt="PostgreSQL Icon" /><br>PostgreSQL
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" height="40" width="50" alt="GitHub Icon" /><br>GitHub
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" height="40" width="50" alt="Postman Icon" /><br>Postman
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40" width="50" alt="JavaScript Icon" /><br>JavaScript
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=ts" height="40" width="50" alt="TypeScript Icon" /><br>TypeScript
     </td>
@@ -47,6 +34,22 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="50" alt="Bootstrap Icon" /><br>Bootstrap
     </td>
+  </tr>
+
+  <!-- Baris 2 (Java, REST API, GitHub, JavaScript) -->
+  <tr>
+    <td align="center" width="100">
+      <img src="./gif/java.gif" height="40" width="50" alt="Java Icon" /><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="40" width="50" alt="REST API Icon" /><br>REST API
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" height="40" width="50" alt="GitHub Icon" /><br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40" width="50" alt="JavaScript Icon" /><br>JavaScript
+    </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React Icon" /><br>React
     </td>
@@ -54,6 +57,8 @@
       <img src="https://skillicons.dev/icons?i=jquery" height="40" width="50" alt="jQuery Icon" /><br>jQuery
     </td>
   </tr>
+
+  <!-- Baris 3 -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="50" alt="Node.js Icon" /><br>Node.js
@@ -74,6 +79,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50" alt="VSCode Icon" /><br>VSCode
     </td>
   </tr>
+
+  <!-- Baris 4 -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=figma" height="40" width="50" alt="Figma Icon" /><br>Figma
@@ -86,8 +93,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ## 📫 Let's Connect
 
