@@ -87,7 +87,7 @@
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 <br clear="both">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=orange" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 <p align="center">
