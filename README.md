@@ -54,8 +54,8 @@
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 🌐 Socials
+<img align="right" height="50" src="assets/follow.gif" width="100"/>
 <div align="left">
-
   <a href="https://www.linkedin.com/in/deniiprwnt/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
