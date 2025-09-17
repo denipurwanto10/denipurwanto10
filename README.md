@@ -77,7 +77,6 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MThnbWNkMGtkNmp0ejE1emZndXc0MDE5YW5objZoYmozM3BvaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/W61JIcgzYPX47pOgR8/giphy.gif" width="150"/>
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 <div align="center">
 </div>
