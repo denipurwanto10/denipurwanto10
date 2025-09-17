@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills
 <table>
-  <!-- Baris 1 (9 item) -->
+  <!-- Baris 1 (7 item) -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" height="40" width="50" alt="PostgreSQL Icon" /><br>PostgreSQL
@@ -39,16 +39,16 @@
     <td align="center" width="100">
       <img src="./gif/java.gif" height="40" width="50" alt="Java Icon" /><br>Java
     </td>
+  </tr>
+
+  <!-- Baris 2 (7 item) -->
+  <tr>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="100" width="50" alt="REST API Icon" /><br>REST API
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" height="100" width="50" alt="GitHub Icon" /><br>GitHub
     </td>
-  </tr>
-
-  <!-- Baris 2 (9 item) -->
-  <tr>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" height="100" width="50" alt="JavaScript Icon" /><br>JavaScript
     </td>
@@ -64,6 +64,10 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" width="50" alt="MySQL Icon" /><br>MySQL
     </td>
+  </tr>
+
+  <!-- Baris 3 (7 item) -->
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=php" height="40" width="50" alt="PHP Icon" /><br>PHP
     </td>
@@ -76,10 +80,6 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50" alt="VSCode Icon" /><br>VSCode
     </td>
-  </tr>
-
-  <!-- Baris 3 (sisa 6 item) -->
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=figma" height="40" width="50" alt="Figma Icon" /><br>Figma
     </td>
@@ -89,37 +89,44 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="50" alt="Trello Icon" /><br>Trello
     </td>
+  </tr>
+
+  <!-- Baris 4 (7 item) -->
+  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="50" alt="WordPress Icon" /><br>WordPress
     </td>
-     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>C#
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" width="50" alt="C# Icon" /><br>C#
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="50" alt="Tailwind Icon" /><br>Tailwind
     </td>
-     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Python
-    </td>
-     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>C++
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" width="50" alt="Python Icon" /><br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Docker
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" width="50" alt="C++ Icon" /><br>C++
     </td>
-  </tr>
-  <tr>
-     <td align="center" width="100">
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="40" width="50" alt="Docker Icon" /><br>Docker
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vue" height="40" width="50" alt="Vue.js Icon" /><br>Vue.js
     </td>
+  </tr>
+
+  <!-- Baris 5 (sisa 2 item) -->
+  <tr>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Django
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" height="40" width="50" alt="Django Icon" /><br>Django
     </td>
-     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Nginx
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" height="40" width="50" alt="Nginx Icon" /><br>Nginx
     </td>
   </tr>
 </table>
+
 
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
