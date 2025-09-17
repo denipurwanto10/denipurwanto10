@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills
 <table>
-  <!-- Baris 1 -->
+  <!-- Baris 1 (9 item) -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" height="40" width="50" alt="PostgreSQL Icon" /><br>PostgreSQL
@@ -36,10 +36,6 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="50" alt="Bootstrap Icon" /><br>Bootstrap
     </td>
-  </tr>
-
-  <!-- Baris 2 (Java, REST API, GitHub, JavaScript) -->
-  <tr>
     <td align="center" width="100">
       <img src="./gif/java.gif" height="40" width="50" alt="Java Icon" /><br>Java
     </td>
@@ -49,6 +45,10 @@
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" height="100" width="50" alt="GitHub Icon" /><br>GitHub
     </td>
+  </tr>
+
+  <!-- Baris 2 (9 item) -->
+  <tr>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" height="100" width="50" alt="JavaScript Icon" /><br>JavaScript
     </td>
@@ -58,17 +58,13 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=jquery" height="40" width="50" alt="jQuery Icon" /><br>jQuery
     </td>
-  </tr>
-
-  <!-- Baris 3 -->
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="50" alt="Node.js Icon" /><br>Node.js
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" width="50" alt="MySQL Icon" /><br>MySQL
     </td>
-     <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=php" height="40" width="50" alt="PHP Icon" /><br>PHP
     </td>
     <td align="center" width="100">
@@ -82,7 +78,7 @@
     </td>
   </tr>
 
-  <!-- Baris 4 -->
+  <!-- Baris 3 (sisa 6 item) -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=figma" height="40" width="50" alt="Figma Icon" /><br>Figma
@@ -93,7 +89,7 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="50" alt="Trello Icon" /><br>Trello
     </td>
-   <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="50" alt="WordPress Icon" /><br>WordPress
     </td>
     <td align="center" width="100">
@@ -102,8 +98,29 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="50" alt="Tailwind Icon" /><br>Tailwind
     </td>
+     <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Python
+    </td>
+     <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>C++
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Docker
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>C#
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Django
+    </td>
+     <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Nginx
+    </td>
   </tr>
 </table>
+
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 📫 Let's Connect
