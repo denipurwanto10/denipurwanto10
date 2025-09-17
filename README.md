@@ -5,7 +5,7 @@
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 🚀 About Me
- <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MThnbWNkMGtkNmp0ejE1emZndXc0MDE5YW5objZoYmozM3BvaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/W61JIcgzYPX47pOgR8/giphy.gif" width="150"/>
+ <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"/>
 
 - 🎓 Bachelor of Informatics Engineering – Universitas Langlangbuana  
 - 💡 Passionate about **Web Development** and **UI/UX Designer**
@@ -158,7 +158,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MThnbWNkMGtkNmp0ejE1emZndXc0MDE5YW5objZoYmozM3BvaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/W61JIcgzYPX47pOgR8/giphy.gif" width="150"/>
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 <div align="center">
 </div>
