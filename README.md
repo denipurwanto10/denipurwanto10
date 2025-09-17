@@ -92,8 +92,8 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="50" alt="WordPress Icon" /><br>WordPress
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vue" height="40" width="50" alt="Vue.js Icon" /><br>Vue.js
+     <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>C#
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="50" alt="Tailwind Icon" /><br>Tailwind
@@ -110,7 +110,7 @@
   </tr>
   <tr>
      <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>C#
+      <img src="https://skillicons.dev/icons?i=vue" height="40" width="50" alt="Vue.js Icon" /><br>Vue.js
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" height="40" width="50" alt="Tailwind Icon" /><br>Django
