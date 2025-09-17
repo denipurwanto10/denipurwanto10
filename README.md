@@ -25,7 +25,7 @@
       <img src="https://skillicons.dev/icons?i=postman" height="40" width="50" alt="Postman Icon" /><br>Postman
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=ts" height="40" width="50" alt="TypeScript Icon" /><br>TypeScript
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="100" width="50" alt="JavaScript Icon" /><br>TypeScript
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" height="40" width="50" alt="HTML Icon" /><br>HTML
@@ -37,7 +37,7 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="50" alt="Bootstrap Icon" /><br>Bootstrap
     </td>
     <td align="center" width="100">
-      <img src="./gif/java.gif" height="40" width="50" alt="Java Icon" /><br>Java
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" height="100" width="50" alt="Java Icon" /><br>Java
     </td>
   </tr>
 
@@ -52,8 +52,8 @@
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" height="100" width="50" alt="JavaScript Icon" /><br>JavaScript
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React Icon" /><br>React
+     <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" height="100" width="50" alt="React Icon" /><br>React
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=jquery" height="40" width="50" alt="jQuery Icon" /><br>jQuery
@@ -62,7 +62,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="50" alt="Node.js Icon" /><br>Node.js
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" width="50" alt="MySQL Icon" /><br>MySQL
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="100" width="50" alt="MySQL Icon" /><br>MySQL
     </td>
   </tr>
 
@@ -123,6 +123,9 @@
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" height="40" width="50" alt="Nginx Icon" /><br>Nginx
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" height="100" width="50" alt="Webpack Icon" /><br>Webpack
     </td>
   </tr>
 </table>
