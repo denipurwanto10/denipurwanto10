@@ -50,9 +50,29 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="25" alt="Canva" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="25" alt="Trello" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="25" alt="WordPress" />
+</div>
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
+
+## 🌐 Socials
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/deniiprwnt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.instagram.com/deniiprwnt/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+
+  <a href="https://www.facebook.com/deni.purwanto.754703" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="25" alt="Facebook" />
+  </a>
+
+  <a href="mailto:denipurwanto800@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
 
 </div>
-
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 🏆 GitHub Trophies
