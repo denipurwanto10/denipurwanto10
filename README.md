@@ -11,7 +11,6 @@
 - 💡 Passionate about **Web Development** and **Mobile Development**
 - 🌍 Based in **Bandung, Indonesia**
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
-- 📚 Currently learning: React, Laravel, and Clean Architecture
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 🛠️ Skills
