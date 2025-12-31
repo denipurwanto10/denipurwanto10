@@ -8,7 +8,7 @@
  <img align="right" height="130" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"/>
 
 - 🎓 Bachelor of Informatics Engineering – Universitas Langlangbuana  
-- 💡 Passionate about **Web Development** and **UI/UX Designer**
+- 💡 Passionate about **Web Development** and **Mobile Development**
 - 🌍 Based in **Bandung, Indonesia**
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
 - 📚 Currently learning: React, Laravel, and Clean Architecture
