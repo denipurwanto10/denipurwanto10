@@ -106,7 +106,9 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/denipurwanto10/denipurwanto10/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="./assets/pacman-contributions.svg" alt="Pacman animation" />
+</div>
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 <br clear="both">
 <p align="center">
