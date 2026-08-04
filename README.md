@@ -82,10 +82,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
   </a>
 
-  <a href="https://www.facebook.com/deni.purwanto.754703" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="25" alt="Facebook" />
-  </a>
-
   <a href="mailto:denipurwanto800@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a>
