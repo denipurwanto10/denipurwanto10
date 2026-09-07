@@ -92,15 +92,16 @@
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=denipurwanto10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
-<div align="center">
-</div>
-
+<p align="left">
+  <a href="https://github.com/denipurwanto10">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
 
 <div align="center">
   <img src="./assets/pacman-contributions.svg" alt="Pacman animation" />
