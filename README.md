@@ -85,7 +85,7 @@
   <a href="mailto:denipurwanto800@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a>
-<a href="https://deniiprwnt.vercel.app/" target="_blank">
+<a href="https://deniiprwnt.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" height="25" alt="Portfolio" />
   </a>
 </div>
