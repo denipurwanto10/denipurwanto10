@@ -11,51 +11,47 @@
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
-## 🛠️ Skills
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="25" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="25" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25" alt="Dart" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" height="25" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="25" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="CSS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" height="25" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25" alt="Flutter" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="25" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="25" alt="Laravel" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="25" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="25" alt="Django" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="25" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="25" alt="Webpack" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="Vite" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="25" alt="NPM" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" height="25" alt="Gradle" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" height="25" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" height="25" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25" alt="SQLite" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?logo=fastapi&logoColor=white&style=for-the-badge" height="25" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="25" alt="JWT" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" height="25" alt="Nginx" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="25" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="25" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white&style=for-the-badge" height="25" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="25" alt="Canva" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="25" alt="Trello" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="25" alt="Postman" />
-</div>
+##🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jQuery" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="Webpack" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="50" alt="Gradle" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="WordPress" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=xd" height="50" alt="Adobe XD" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+</p>
+
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
 ## 🌐 Socials
