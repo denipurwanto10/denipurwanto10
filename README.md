@@ -88,13 +88,10 @@
 
 </p>
 <br />
-
-<div align="center">
-  <img
-    src="https://www.gitskins.com/api/section/heatmap?username=denipurwanto10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F100355910%3Fu%3D5b1e8ecee3d14131577637f7e331747d8553fa57%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark"
-    alt="GitHub contribution heatmap"
-  />
-</div>
+<img src="./assets/divider.svg" alt="divider" width="110%">
+<p align="center">
+  <img src="./game.gif" alt="GitHub Space Shooter" width="850">
+</p>
 <img src="./assets/divider.svg" alt="divider" width="110%">
 <br clear="both">
 <p align="center">
