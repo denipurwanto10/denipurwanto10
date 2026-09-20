@@ -1,5 +1,17 @@
 <img src="./assets/hero.svg" alt="hero" width="110%">
 
+<p align="center">
+  <a href="https://linkedin.com/in/denipurwnt">
+    <img src="https://img.shields.io/badge/LINKEDIN-7B5CFF?style=for-the-badge&logoColor=FFFFFF" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:denipurwanto800@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-09B575?style=for-the-badge&logoColor=FFFFFF" alt="Gmail"/>
+  </a>
+  <a href="https://deniiprwnt.is-a.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00AEB5?style=for-the-badge&logoColor=FFFFFF" alt="Portfolio"/>
+  </a>
+</p>
+
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
 ## 🚀 About Me
