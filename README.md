@@ -11,7 +11,7 @@
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
-##🛠️ Skills
+## 🛠️ Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
