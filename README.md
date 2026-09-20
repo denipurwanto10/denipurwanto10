@@ -1,18 +1,5 @@
-<div align="center">
+<img src="./assets/hero.svg" alt="hero" width="110%">
 
-```
-██████╗  ███████╗ ███╗  ██╗ ██╗    ██████╗  
-██╔══██╗ ██╔════╝ ████╗ ██║ ██║    ██╔══██╗ 
-██║  ██║ █████╗   ██╔██╗██║ ██║    ██████╔╝ 
-██║  ██║ ██╔══╝   ██║╚████║ ██║    ██╔═══╝  
-██████╔╝ ███████╗ ██║ ╚███║ ██║    ██║      
-╚═════╝  ╚══════╝ ╚═╝  ╚══╝ ╚═╝    ╚═╝      
-```
-
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-</div>
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
 ## 🚀 About Me
