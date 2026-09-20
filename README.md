@@ -13,7 +13,7 @@
 
 ## 🛠️ Skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
