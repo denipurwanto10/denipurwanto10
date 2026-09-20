@@ -13,7 +13,7 @@
 
 ## 🛠️ Skills
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
@@ -56,13 +56,24 @@
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <a href="https://github.com/denipurwanto10">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
+<a href="https://github.com/denipurwanto10">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&theme=tokyonight&rank=-?&title=-Followers,-PullRequestFirst,-Pull2pt,-PullRequest"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&theme=tokyonight&rank=-?&title=-Followers,-PullRequestFirst,-Pull2pt,-PullRequest"
+    >
+    <img
+      alt="GitHub Trophies"
+      src="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&theme=tokyonight&rank=-?&title=-Followers,-PullRequestFirst,-Pull2pt,-PullRequest"
+    >
+  </picture>
+</a>
+
+
 </p>
 <br />
 
