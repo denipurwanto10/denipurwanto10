@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="110%">
 
 ## 🚀 About Me
  <img align="right" height="130" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"/>
@@ -22,7 +22,7 @@
 - 💡 Passionate about **Web Development** and **Mobile Development**
 - 🌍 Based in **Bandung, Indonesia**
 - 🔐 Concerned with **secure, scalable, and maintainable** code  
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="110%">
 
 ## 🛠️ Skills
 <div align="left">
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="25" alt="Trello" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="25" alt="Postman" />
 </div>
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="110%">
 
 ## 🌐 Socials
 <img align="right" height="50" src="assets/follow.gif" width="100"/>
@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" height="25" alt="Portfolio" />
   </a>
 </div>
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="110%">
 
 ## 🏆 GitHub Trophies
 <p align="left">
@@ -106,7 +106,7 @@
 <div align="center">
   <img src="./assets/pacman-contributions.svg" alt="Pacman animation" />
 </div>
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="110%">
 <br clear="both">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=blue" alt="profile views"/>
