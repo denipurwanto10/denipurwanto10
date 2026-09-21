@@ -24,8 +24,7 @@
 
 ## 🛠️ Skills
 
-![Tech Stack](https://githubreadme.miracle.web.id/api/skills?icons=react,nodejs,typescript,tailwindcss,astro,docker,firebase,flutter,figma,dart,javascript,laravel,vercel,supabase,php,python,mysql,nextjs,google-antigravity,cloudflare,kotlin,postgresql,google-cloud,vue,linux&frame=rounded&theme=tokyonight&itemSize=94&iconSize=51&perLine=15&v=7)
-
+![Tech Stack](https://githubreadme.miracle.web.id/api/skills?icons=react,nodejs,typescript,tailwindcss,astro,docker,firebase,flutter,figma,dart,javascript,laravel,vercel,supabase,php,python,mysql,nextjs,google-antigravity,cloudflare,kotlin,postgresql,google-cloud,vue,linux,git,github,postman&frame=rounded&theme=tokyonight&itemSize=94&iconSize=51&perLine=15&v=7)
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
 ## 🏆 GitHub Trophies
