@@ -24,44 +24,7 @@
 
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jQuery" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="Webpack" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="50" alt="Gradle" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="WordPress" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=xd" height="50" alt="Adobe XD" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
-</p>
+![Tech Stack](https://githubreadme.miracle.web.id/api/skills?icons=react,nodejs,typescript,tailwindcss,astro,docker,firebase,flutter,figma,dart,javascript,laravel,vercel,supabase,php,python,mysql,nextjs,google-antigravity,cloudflare,kotlin,postgresql,google-cloud,vue,linux&frame=rounded&theme=tokyonight&itemSize=94&iconSize=51&perLine=15&v=7)
 
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
