@@ -25,7 +25,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://githubreadme.miracle.web.id/api/skills?icons=react,nodejs,typescript,tailwindcss,astro,docker,firebase,flutter,figma,dart,javascript,laravel,vercel,supabase,php,python,mysql,nextjs,google-antigravity,cloudflare,kotlin,postgresql,google-cloud,vue,linux,git,github,postman&frame=rounded&theme=tokyonight&itemSize=94&iconSize=51&perLine=15&v=7" alt="Tech Stack">
+  <img src="https://githubreadme.miracle.web.id/api/skills?icons=react,nodejs,typescript,tailwindcss,astro,docker,firebase,flutter,figma,dart,javascript,laravel,vercel,supabase,php,python,mysql,nextjs,google-antigravity,cloudflare,kotlin,postgresql,google-cloud,vue,linux,git,github,postman&frame=rounded&theme=tokyonight&itemSize=110&iconSize=62&perLine=8&v=8" alt="Tech Stack">
 </p>
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
