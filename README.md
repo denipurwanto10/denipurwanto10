@@ -24,32 +24,26 @@
 
 ## 🛠️ Skills
 
-![Tech Stack](https://githubreadme.miracle.web.id/api/skills?icons=react,nodejs,typescript,tailwindcss,astro,docker,firebase,flutter,figma,dart,javascript,laravel,vercel,supabase,php,python,mysql,nextjs,google-antigravity,cloudflare,kotlin,postgresql,google-cloud,vue,linux,git,github,postman&frame=rounded&theme=tokyonight&itemSize=94&iconSize=51&perLine=15&v=7)
+<p align="center">
+  <img src="https://githubreadme.miracle.web.id/api/skills?icons=react,nodejs,typescript,tailwindcss,astro,docker,firebase,flutter,figma,dart,javascript,laravel,vercel,supabase,php,python,mysql,nextjs,google-antigravity,cloudflare,kotlin,postgresql,google-cloud,vue,linux,git,github,postman&frame=rounded&theme=tokyonight&itemSize=94&iconSize=51&perLine=15&v=7" alt="Tech Stack">
+</p>
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
-## 🏆 GitHub Trophies
-<p align="left">
-<a href="https://github.com/denipurwanto10">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&theme=tokyonight&rank=-?&title=-Followers,-PullRequestFirst,-Pull2pt,-PullRequest"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&theme=tokyonight&rank=-?&title=-Followers,-PullRequestFirst,-Pull2pt,-PullRequest"
-    >
-    <img
-      alt="GitHub Trophies"
-      src="https://github-profile-trophy-ruddy.vercel.app/?username=denipurwanto10&theme=tokyonight&rank=-?&title=-Followers,-PullRequestFirst,-Pull2pt,-PullRequest"
-    >
-  </picture>
-</a>
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=denipurwanto10&theme=tokyonight&hide_border=true&border_radius=12&card_width=500&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 
 </p>
 <br />
 <img src="./assets/divider.svg" alt="divider" width="110%">
+
+## 🌀 Contribution Graph
+
 <p align="center">
   <img src="./game.gif" alt="GitHub Space Shooter" width="850">
 </p>
