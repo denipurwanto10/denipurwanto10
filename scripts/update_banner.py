@@ -331,7 +331,7 @@ a('''<g>
 @@ICON@@
 <text x="46" y="122" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" fill="#5d678f">@@NOTE@@</text>
 </g>''')
-a('</g><rect x=".5" y=".5" width="1199" height="299" rx="22" fill="none" stroke="#ffc857" stroke-opacity=".22"/></svg>')
+a('</g><rect x=".5" y=".5" width="1199" height="299" rx="22" fill="none" stroke="#22d3ee" stroke-opacity=".55"/></svg>')
 svg='\n'.join(o)
 CLOUD_P='<path d="M8 24H27a7 7 0 0 0 .8-13.9A10 10 0 0 0 8 12.4 6 6 0 0 0 8 24Z" fill="#c7d2fe"/>'
 DROPS='<line class="dr" x1="12" y1="29" x2="10" y2="34"/><line class="dr" style="animation-delay:.4s" x1="19" y1="29" x2="17" y2="34"/><line class="dr" style="animation-delay:.8s" x1="26" y1="29" x2="24" y2="34"/>'
@@ -346,4 +346,3 @@ for k,v in {'@@TEMP@@':TEMP,'@@LABEL@@':LABEL,'@@HI@@':HI,'@@LO@@':LO,'@@NOTE@@'
 svg=svg.replace('aria-label="Bandung malam hari, 22°C gerimis"','aria-label="Bandung, %d°C, %s"'%(TEMP,LABEL.lower())).replace('<title>Bandung at night — 22°C, gerimis</title>','<title>Bandung — %d°C, %s</title>'%(TEMP,LABEL.lower()))
 for k,v in PAL.items(): svg=svg.replace(k,v)
 open(OUT,'w',encoding='utf-8').write(svg)
-
