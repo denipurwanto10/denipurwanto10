@@ -1,18 +1,13 @@
 <img src="./assets/deni-purwanto-banner(1).svg" alt="Deni Purwanto Banner" width="110%">
 <p align="center">
-  <a href="https://github.com/denipurwanto10">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7DF9FF&center=true&vCenter=true&width=620&lines=Frontend+%26+Full+Stack+Engineer;Web+%2B+Mobile+Developer;Based+in+Bandung%2C+Indonesia;Secure%2C+Scalable%2C+Maintainable+Code" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
   <a href="https://linkedin.com/in/deniiprwnt">
-    <img src="https://img.shields.io/badge/LINKEDIN-7B5CFF?style=for-the-badge&logoColor=FFFFFF" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-7B5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
   </a> 
   <a href="mailto:denipurwanto800@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-09B575?style=for-the-badge&logoColor=FFFFFF" alt="Gmail">
+    <img src="https://img.shields.io/badge/GMAIL-09B575?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail">
   </a>
   <a href="https://deniiprwnt.is-a.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00AEB5?style=for-the-badge&logoColor=FFFFFF" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00AEB5?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio">
   </a>
 </p>
 
@@ -42,12 +37,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=denipurwanto10\&theme=tokyonight\&hide_border=true\&border_radius=12\&card_width=500\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denipurwanto10&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=denipurwanto10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=denipurwanto10\&theme=tokyonight\&ring=7DF9FF\&fire=00FFA3\&currStreakLabel=7DF9FF\&hide_border=true\&border_radius=12\&card_width=500\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
