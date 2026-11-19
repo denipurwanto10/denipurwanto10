@@ -49,7 +49,7 @@
 
 <p align="center">
   <img
-    src="./game.gif"
+    src="./game.gif?v=2"
     alt="GitHub Space Shooter"
     width="850"
   >
