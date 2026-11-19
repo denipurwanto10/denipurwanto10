@@ -128,6 +128,8 @@ o.append('''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.o
 <linearGradient id="rmg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <linearGradient id="cone" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff3c4" stop-opacity=".55"/><stop offset="1" stop-color="#fff3c4" stop-opacity="0"/></linearGradient>
 <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+<radialGradient id="vg" cx=".5" cy=".5" r=".75"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#02040d" stop-opacity=".55"/></radialGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity=".8"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".8"/><stop offset="1" stop-color="#ffc857" stop-opacity=".8"/></linearGradient>
 <mask id="rm"><rect x="0" y="238" width="1200" height="62" fill="url(#rmg)"/></mask>
 <mask id="mm"><rect width="1200" height="300" fill="#fff"/><circle cx="1082" cy="52" r="19" fill="#000"/></mask>
 <clipPath id="c"><rect width="1200" height="300" rx="22"/></clipPath>
@@ -149,8 +151,10 @@ o.append('''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.o
 @keyframes cl{from{transform:translateX(-320px)}to{transform:translateX(1400px)}}
 .ms{animation:ms 45s linear infinite}
 @keyframes ms{from{transform:translateX(-260px)}to{transform:translateX(1360px)}}
-.dash{animation:dash 1.2s linear infinite}
-@keyframes dash{to{stroke-dashoffset:-48}}
+.ss{animation:ss 9s ease-in infinite 2s;opacity:0}
+.ff{animation:ff 7s ease-in-out infinite;opacity:0}
+@keyframes ss{0%,86%{opacity:0;transform:translate(780px,14px)}88%{opacity:1}100%{opacity:0;transform:translate(1040px,112px)}}
+@keyframes ff{0%,100%{transform:translate(0,0);opacity:0}25%{opacity:.9}50%{transform:translate(14px,-12px);opacity:.3}75%{transform:translate(-8px,-22px);opacity:.9}}
 .r{stroke:#b9c6ff;stroke-width:1;stroke-linecap:round;opacity:.3;animation:rn 1s linear infinite}
 .r2{animation-duration:1.3s;animation-delay:-.4s}.r3{animation-duration:.8s;animation-delay:-.2s;opacity:.22}
 .r4{animation-duration:1.15s;animation-delay:-.7s}.r5{animation-duration:.95s;animation-delay:-.5s;opacity:.2}
@@ -168,6 +172,14 @@ o.append('''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.o
 <g clip-path="url(#c)">
 <rect width="1200" height="300" fill="url(#sky)"/>
 <rect width="1200" height="300" fill="url(#hz)"/>''')
+
+# extra night sky: static twinkling stars, moon, shooting star
+if NIGHT:
+    for sx,sy,sr,sd in [(40,20,1.2,.4),(96,64,.9,1.2),(150,14,1.1,2.1),(232,46,1.3,.9),(300,12,.9,2.7),(352,72,1,1.6),(410,30,1.4,.2),(468,58,.9,3),(505,16,1.1,1.9),(660,26,1.2,.7),(712,66,.9,2.4),(760,12,1.3,1.4),(815,48,1,.1),(870,22,1.2,2.9),(930,70,.9,1.1),(985,34,1.1,2.2),(1030,14,1.3,.6),(1140,26,1,1.7),(1176,72,1.2,2.5),(26,96,.8,.3),(270,90,.8,1.3),(450,100,.9,2),(735,98,.8,.8),(890,96,.9,2.6)]:
+        a(f'<circle class="tw" cx="{sx}" cy="{sy}" r="{sr}" fill="#e0e7ff" style="animation-delay:-{sd}s"/>')
+    if not SHOW_MOON:
+        a('<circle cx="1076" cy="52" r="70" fill="url(#moonglow)"/><circle cx="1074" cy="52" r="19" fill="#e0e7ff" mask="url(#mm)" filter="url(#glow)"/>')
+    a('<line class="ss" x1="0" y1="0" x2="-80" y2="-30" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>')
 
 # stars
 for _ in range(NSTARS):
@@ -277,10 +289,10 @@ a('<g class="ms" style="animation-delay:-22s"><ellipse cx="100" cy="228" rx="240
 # lamps
 for lx in LAMPS:
     a(f'<circle cx="{lx}" cy="214" r="18" fill="url(#lamp)"/><rect x="{lx-.8}" y="214" width="1.6" height="22" fill="#4b5688"/><circle cx="{lx}" cy="213" r="2.2" fill="#fff1c1"/>')
-    a(f'<ellipse cx="{lx}" cy="256" rx="14" ry="30" fill="#ffd98a" opacity=".07"/>')
+    a(f'<ellipse cx="{lx}" cy="256" rx="16" ry="30" fill="#ffd98a" opacity=".14"/>')
 
 # lane dash
-a('<line x1="0" y1="270" x2="1200" y2="270" stroke="#3b4672" stroke-width="2" stroke-dasharray="24 24" class="dash"/>')
+a('<g><line x1="0" y1="298" x2="1200" y2="298" stroke="#5b6aa8" stroke-opacity=".4" stroke-width="1.4"/><line x1="0" y1="270" x2="1200" y2="270" stroke="#ffc857" stroke-opacity=".18" stroke-width="6" stroke-dasharray="28 20"/><line x1="0" y1="270" x2="1200" y2="270" stroke="#ffd98a" stroke-opacity=".85" stroke-width="2.2" stroke-dasharray="28 20" stroke-linecap="round"/></g>')
 # ripples
 for _ in range(NRIP):
     x=random.randint(10,1190); y=random.randint(247,296)
@@ -320,18 +332,24 @@ if FOG:
     a('<rect y="90" width="1200" height="150" fill="#dfe6f5" opacity=".22"/><g class="ms"><ellipse cx="300" cy="170" rx="320" ry="40" fill="#e6ecfa" opacity=".2"/></g>')
 if THUNDER:
     a('<rect width="1200" height="300" fill="#fff" opacity="0" class="fx"/>')
+# vignette + fireflies
+a('<rect width="1200" height="300" fill="url(#vg)"/>')
+if NIGHT:
+    for fx_,fy_,fr_,fd_ in [(140,228,1.6,0),(330,222,1.5,2),(470,230,1.7,4),(700,226,1.5,1),(860,232,1.6,3),(1010,224,1.7,5),(1150,229,1.5,6)]:
+        a(f'<g filter="url(#glow)" fill="#fde68a"><circle class="ff" cx="{fx_}" cy="{fy_}" r="{fr_}" style="animation-delay:-{fd_}s"/></g>')
 # weather glass card
 a('''<g>
 <rect x="28" y="18" width="348" height="118" rx="18" fill="#0b1126" fill-opacity=".45"/>
 <rect x="28" y="18" width="348" height="118" rx="18" fill="url(#glass)" stroke="#fff" stroke-opacity=".16"/>
-<text x="46" y="42" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#6f7aa8"><tspan fill="#a78bfa">❯</tspan> <tspan fill="#ffc857">curl</tspan> wttr.in/bandung</text>
+<text x="46" y="42" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#6f7aa8"><tspan fill="#a78bfa">❯</tspan> <tspan fill="#ffc857">curl</tspan> wttr.in/bandung</text><rect class="bc" x="214" y="31" width="7" height="13" rx="1" fill="#a78bfa"/>
 <text x="46" y="98" font-family="Inter,'SF Pro Display','Segoe UI',system-ui,sans-serif" font-size="46" font-weight="700" fill="#fff">@@TEMP@@<tspan font-size="20" font-weight="500" fill="#a5b4fc" dy="-18">°C</tspan></text>
 <text x="158" y="80" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="17" font-weight="600" fill="#e8ecff">@@LABEL@@</text>
 <text x="158" y="99" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8f9bc9">H @@HI@@° · L @@LO@@°</text>
 @@ICON@@
 <text x="46" y="122" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" fill="#5d678f">@@NOTE@@</text>
+<rect x="770" y="22" width="215" height="28" rx="14" fill="#0b1126" fill-opacity=".45"/><rect x="770" y="22" width="215" height="28" rx="14" fill="url(#glass)" stroke="#fff" stroke-opacity=".16"/><circle class="bc" cx="789" cy="36" r="3.5" fill="#34d399"/><text x="801" y="40" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#cbd5ff">Gedung Sate Â· Kota Kembang</text>
 </g>''')
-a('</g><rect x=".5" y=".5" width="1199" height="299" rx="22" fill="none" stroke="#22d3ee" stroke-opacity=".55"/></svg>')
+a('</g><rect x=".75" y=".75" width="1198.5" height="298.5" rx="22" fill="none" stroke="url(#bd)" stroke-width="1.5"/></svg>')
 svg='\n'.join(o)
 CLOUD_P='<path d="M8 24H27a7 7 0 0 0 .8-13.9A10 10 0 0 0 8 12.4 6 6 0 0 0 8 24Z" fill="#c7d2fe"/>'
 DROPS='<line class="dr" x1="12" y1="29" x2="10" y2="34"/><line class="dr" style="animation-delay:.4s" x1="19" y1="29" x2="17" y2="34"/><line class="dr" style="animation-delay:.8s" x1="26" y1="29" x2="24" y2="34"/>'
