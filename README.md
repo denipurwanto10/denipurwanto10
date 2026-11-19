@@ -58,14 +58,15 @@
 <img src="./assets/divider.svg" alt="divider" width="110%">
 
 <br clear="both">
-
+<p align="center">
+<img src="assets/bandung-night.svg?v=2" width="100%" alt="Bandung at night" />
+</p>
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=blue"
     alt="Profile Views"
   >
 </p>
-
 <p align="center">
   <em>“Strive for progress, not perfection.”</em>
 </p>
