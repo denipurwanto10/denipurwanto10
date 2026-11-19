@@ -347,7 +347,6 @@ a('''<g>
 <text x="158" y="99" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8f9bc9">H @@HI@@° · L @@LO@@°</text>
 @@ICON@@
 <text x="46" y="122" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" fill="#5d678f">@@NOTE@@</text>
-<rect x="770" y="22" width="215" height="28" rx="14" fill="#0b1126" fill-opacity=".45"/><rect x="770" y="22" width="215" height="28" rx="14" fill="url(#glass)" stroke="#fff" stroke-opacity=".16"/><circle class="bc" cx="789" cy="36" r="3.5" fill="#34d399"/><text x="801" y="40" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#cbd5ff">Gedung Sate Â· Kota Kembang</text>
 </g>''')
 a('</g><rect x=".75" y=".75" width="1198.5" height="298.5" rx="22" fill="none" stroke="url(#bd)" stroke-width="1.5"/></svg>')
 svg='\n'.join(o)
