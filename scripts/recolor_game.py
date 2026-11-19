@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Recolor the space shooter GIF: green blocks -> yellow, blue ship -> red.
+"""Recolor the space shooter GIF: green blocks -> yellow, blue ship -> red, yellow bullets -> cyan.
 
 Usage: python scripts/recolor_game.py game.gif
 """
@@ -11,6 +11,7 @@ PATH = sys.argv[1] if len(sys.argv) > 1 else "game.gif"
 
 YELLOW_HUE = 48.0   # degrees
 RED_HUE = 0.0
+CYAN_HUE = 182.0
 
 
 def recolor(rgb):
@@ -32,11 +33,13 @@ def recolor(rgb):
     colored = (s > 0.35) & (v > 0.2)
     green = colored & (h >= 80) & (h <= 170)
     blue = colored & (h >= 190) & (h <= 260)
+    bullet = colored & (h >= 38) & (h <= 68)  # original yellow bullets
 
     h2 = h.copy()
     h2[green] = YELLOW_HUE
     h2[blue] = RED_HUE
-    changed = green | blue
+    h2[bullet] = CYAN_HUE
+    changed = green | blue | bullet
 
     # HSV -> RGB
     c = v * s

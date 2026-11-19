@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<img src="./assets/divider.svg" alt="divider" width="110%">
+<img src="./assets/divider.svg?v=2" alt="divider" width="110%">
 
 ## 🚀 About Me
 
@@ -20,7 +20,7 @@
 * 🌍 Based in **Bandung, Indonesia**
 * 🔐 Concerned with **secure, scalable, and maintainable** code
 
-<img src="./assets/divider.svg" alt="divider" width="110%">
+<img src="./assets/divider.svg?v=2" alt="divider" width="110%">
 
 ## 🛠️ Skills
 
@@ -31,7 +31,7 @@
   >
 </p>
 
-<img src="./assets/divider.svg" alt="divider" width="110%">
+<img src="./assets/divider.svg?v=2" alt="divider" width="110%">
 
 ## 📊 GitHub Stats
 
@@ -43,19 +43,19 @@
 
 <br>
 
-<img src="./assets/divider.svg" alt="divider" width="110%">
+<img src="./assets/divider.svg?v=2" alt="divider" width="110%">
 
 ## 🌀 Contribution Graph
 
 <p align="center">
   <img
-    src="./game.gif?v=2"
+    src="./game.gif?v=3"
     alt="GitHub Space Shooter"
     width="850"
   >
 </p>
 
-<img src="./assets/divider.svg" alt="divider" width="110%">
+<img src="./assets/divider.svg?v=2" alt="divider" width="110%">
 
 <br clear="both">
 <p align="center">

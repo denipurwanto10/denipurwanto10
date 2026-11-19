@@ -1,24 +1,23 @@
 <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 40' width='1200' height='40' fill='none' role='img' aria-label='divider'>
 <defs>
 <linearGradient id='dg' gradientUnits='userSpaceOnUse' x1='0' y1='0' x2='400' y2='0' spreadMethod='repeat'><stop offset='0' stop-color='#7df9ff'/><stop offset='.5' stop-color='#7b5cff'/><stop offset='1' stop-color='#7df9ff'/><animateTransform attributeName='gradientTransform' type='translate' from='0 0' to='400 0' dur='4s' repeatCount='indefinite'/></linearGradient>
-<linearGradient id='fade' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='#fff' stop-opacity='0'/><stop offset='.15' stop-color='#fff'/><stop offset='.85' stop-color='#fff'/><stop offset='1' stop-color='#fff' stop-opacity='0'/></linearGradient>
-<mask id='fm'><rect width='1200' height='40' fill='url(#fade)'/></mask>
-<filter id='de' filterUnits='userSpaceOnUse' x='0' y='0' width='1200' height='40'><feTurbulence type='fractalNoise' baseFrequency='0.008 0.05' numOctaves='2' seed='5' result='n'><animate attributeName='seed' dur='2.4s' values='5;13;7;15;5' calcMode='discrete' repeatCount='indefinite'/></feTurbulence><feDisplacementMap in='SourceGraphic' in2='n' scale='5' xChannelSelector='R' yChannelSelector='G'/></filter>
+<linearGradient id='fade' gradientUnits='userSpaceOnUse' x1='0' y1='0' x2='1200' y2='0'><stop offset='0' stop-color='#fff' stop-opacity='0'/><stop offset='.12' stop-color='#fff'/><stop offset='.88' stop-color='#fff'/><stop offset='1' stop-color='#fff' stop-opacity='0'/></linearGradient>
+<mask id='fm' maskUnits='userSpaceOnUse' x='0' y='0' width='1200' height='40'><rect x='0' y='0' width='1200' height='40' fill='url(#fade)'/></mask>
 <filter id='gl' filterUnits='userSpaceOnUse' x='0' y='0' width='1200' height='40'><feGaussianBlur stdDeviation='2.4' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter>
 </defs>
 <g mask='url(#fm)'>
-<line x1='40' y1='20' x2='1160' y2='20' stroke='#7b5cff' stroke-opacity='.25' stroke-width='8' stroke-linecap='round'/>
-<g filter='url(#gl)'><line x1='40' y1='20' x2='1160' y2='20' stroke='url(#dg)' stroke-width='2' stroke-linecap='round' filter='url(#de)'/></g>
+<rect x='40' y='16' width='1120' height='8' rx='4' fill='#7b5cff' fill-opacity='.18'/>
+<g filter='url(#gl)'><rect x='40' y='19' width='1120' height='2' rx='1' fill='url(#dg)'/></g>
+<g stroke='#7df9ff' stroke-opacity='.5' stroke-width='1'><path d='M120 15V25M200 17V23M280 15V25M360 17V23M440 15V25M520 17V23M680 17V23M760 15V25M840 17V23M920 15V25M1000 17V23M1080 15V25'/></g>
 </g>
 <g fill='#00ffa3' filter='url(#gl)'><path d='M40 20 l8 -6 l8 6 l-8 6 z' opacity='.9'/><path d='M1160 20 l-8 -6 l-8 6 l8 6 z' opacity='.9'/></g>
 <g filter='url(#gl)'>
-<circle cx='600' cy='20' r='14' fill='#0a0720'/>
-<path d='M600 8 L610.4 14 L610.4 26 L600 32 L589.6 26 L589.6 14 Z' fill='#0a0720' stroke='#7df9ff' stroke-width='1.6'/>
+<path d='M600 7 L611.5 13.5 L611.5 26.5 L600 33 L588.5 26.5 L588.5 13.5 Z' fill='#0a0720' stroke='#7df9ff' stroke-width='1.6'/>
 <path d='M600 15 l5 5 l-5 5 l-5 -5 z' fill='#00ffa3'><animate attributeName='opacity' values='1;.25;1' dur='2.4s' repeatCount='indefinite'/></path>
 <circle cx='600' cy='20' r='16' stroke='#7b5cff' stroke-width='1.2' stroke-dasharray='5 7' stroke-linecap='round'><animateTransform attributeName='transform' type='rotate' from='0 600 20' to='360 600 20' dur='8s' repeatCount='indefinite'/></circle>
 </g>
 <g filter='url(#gl)'>
-<circle r='4.5' cy='20' fill='#7df9ff'><animate attributeName='cx' values='60;1140;60' dur='5s' repeatCount='indefinite' calcMode='spline' keyTimes='0;.5;1' keySplines='.4 0 .2 1;.4 0 .2 1'/><animate attributeName='opacity' values='0;1;1;0;1;1;0' dur='5s' repeatCount='indefinite'/></circle>
+<circle r='4.5' cy='20' fill='#7df9ff'><animate attributeName='cx' values='60;1140;60' dur='5s' repeatCount='indefinite' calcMode='spline' keyTimes='0;.5;1' keySplines='.4 0 .2 1;.4 0 .2 1'/></circle>
 <circle r='2' cy='20' fill='#fff'><animate attributeName='cx' values='60;1140;60' dur='5s' repeatCount='indefinite' calcMode='spline' keyTimes='0;.5;1' keySplines='.4 0 .2 1;.4 0 .2 1'/></circle>
 </g>
 </svg>
