@@ -14,7 +14,7 @@
 <clipPath id='tc'><text x='600' y='244' text-anchor='middle' font-family='Inter, Segoe UI, Trebuchet MS, Verdana, sans-serif' font-size='96' font-weight='800' letter-spacing='4'>Deni Purwanto</text></clipPath>
 <clipPath id='cl'><rect width='1200' height='400' rx='30'/></clipPath>
 <filter id='blur' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='40'/></filter>
-<filter id='electric' x='-30%' y='-30%' width='160%' height='160%'><feTurbulence type='fractalNoise' baseFrequency='0.013' numOctaves='2' seed='2' result='n'><animate attributeName='baseFrequency' dur='9s' values='0.012;0.021;0.012' repeatCount='indefinite'/><animate attributeName='seed' dur='3s' values='2;9;4;11;2' calcMode='discrete' repeatCount='indefinite'/></feTurbulence><feDisplacementMap in='SourceGraphic' in2='n' scale='14' xChannelSelector='R' yChannelSelector='G'/></filter>
+<filter id='electric' x='-30%' y='-30%' width='160%' height='160%'><feTurbulence type='fractalNoise' baseFrequency='0.013' numOctaves='2' seed='2' result='n'><animate attributeName='baseFrequency' dur='9s' values='0.012;0.021;0.012' repeatCount='indefinite'/><animate attributeName='seed' dur='3s' values='2;9;4;11;2' calcMode='discrete' repeatCount='indefinite'/></feTurbulence><feDisplacementMap in='SourceGraphic' in2='n' scale='4' xChannelSelector='R' yChannelSelector='G'/></filter>
 <filter id='glow' x='-40%' y='-40%' width='180%' height='180%'><feGaussianBlur stdDeviation='4' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter>
 <filter id='textGlow' x='-20%' y='-60%' width='140%' height='220%'><feGaussianBlur stdDeviation='8' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter>
 <style>
@@ -37,13 +37,6 @@
 <circle cx='260' cy='110' r='170' fill='url(#o1)'><animateTransform attributeName='transform' type='translate' values='0 0;80 40;0 0' dur='13s' repeatCount='indefinite'/></circle>
 <circle cx='960' cy='120' r='190' fill='url(#o3)'><animateTransform attributeName='transform' type='translate' values='0 0;-70 50;0 0' dur='16s' repeatCount='indefinite'/></circle>
 <circle cx='620' cy='400' r='200' fill='url(#o2)'><animateTransform attributeName='transform' type='translate' values='0 0;-90 -20;0 0' dur='11s' repeatCount='indefinite'/></circle>
-</g>
-<g mask='url(#fmask)' stroke='#7df9ff' stroke-opacity='.45' stroke-width='1'>
-<path d='M600 318L600 400M600 318L450 400M600 318L750 400M600 318L300 400M600 318L900 400M600 318L100 400M600 318L1100 400M600 318L-150 400M600 318L1350 400M600 318L-500 400M600 318L1700 400M600 318L-1000 400M600 318L2200 400'/>
-<rect x='0' y='322' width='1200' height='1' fill='#7df9ff' stroke='none'><animate attributeName='y' values='322;398' dur='3.2s' keySplines='.55 0 1 1' keyTimes='0;1' calcMode='spline' repeatCount='indefinite'/></rect>
-<rect x='0' y='322' width='1200' height='1' fill='#7df9ff' stroke='none'><animate attributeName='y' values='322;398' dur='3.2s' begin='-.8s' keySplines='.55 0 1 1' keyTimes='0;1' calcMode='spline' repeatCount='indefinite'/></rect>
-<rect x='0' y='322' width='1200' height='1' fill='#7df9ff' stroke='none'><animate attributeName='y' values='322;398' dur='3.2s' begin='-1.6s' keySplines='.55 0 1 1' keyTimes='0;1' calcMode='spline' repeatCount='indefinite'/></rect>
-<rect x='0' y='322' width='1200' height='1' fill='#7df9ff' stroke='none'><animate attributeName='y' values='322;398' dur='3.2s' begin='-2.4s' keySplines='.55 0 1 1' keyTimes='0;1' calcMode='spline' repeatCount='indefinite'/></rect>
 </g>
 <g fill='#cfe9ff'>
 <circle class='tw' cx='90' cy='70' r='1.6'/><circle class='tw2' cx='300' cy='86' r='1.9'/><circle class='tw3' cx='560' cy='64' r='1.4'/><circle class='tw' cx='840' cy='96' r='1.3'/><circle class='tw2' cx='1100' cy='78' r='1.7'/><circle class='tw3' cx='180' cy='200' r='1.5'/><circle class='tw' cx='1040' cy='200' r='1.4'/><circle class='tw2' cx='60' cy='208' r='1.2'/><circle class='tw3' cx='1150' cy='250' r='1.5'/><circle class='tw' cx='380' cy='58' r='1.1'/><circle class='tw3' cx='760' cy='56' r='1.2'/>
