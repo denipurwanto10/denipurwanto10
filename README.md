@@ -1,4 +1,4 @@
-<img src="./assets/deni-purwanto-banner(1).svg" alt="Deni Purwanto Banner" width="110%">
+<img src="./assets/deni-purwanto-banner(1).svg?v=2" alt="Deni Purwanto Banner" width="110%">
 <p align="center">
   <a href="https://linkedin.com/in/deniiprwnt">
     <img src="https://img.shields.io/badge/LINKEDIN-7B5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
