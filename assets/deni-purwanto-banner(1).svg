@@ -23,6 +23,7 @@
       <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="5s" repeatCount="indefinite"/>
     </linearGradient>
 
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#7df9ff" stroke-opacity=".07" fill="none"/></pattern>
     <filter id="electric" x="-30%" y="-30%" width="160%" height="160%">
       <feTurbulence type="fractalNoise" baseFrequency="0.013" numOctaves="2" seed="2" result="noise">
         <animate attributeName="baseFrequency" dur="9s" values="0.012;0.021;0.012" repeatCount="indefinite"/>
@@ -102,6 +103,12 @@
     <path d="M1146 314 L1146 346 L1114 346"/>
   </g>
 
+  <rect x="26" y="26" width="1148" height="348" rx="26" fill="url(#grid)"/>
+  <rect x="30" y="26" width="1140" height="3" fill="#7df9ff" opacity=".1"><animate attributeName="y" values="26;370;26" dur="7s" repeatCount="indefinite"/></rect>
+  <g filter="url(#glow)">
+    <circle r="3" fill="#00ffa3"><animateMotion dur="9s" repeatCount="indefinite" path="M60 26 H1140 V374 H60 Z"/></circle>
+    <circle r="2.4" fill="#7df9ff"><animateMotion dur="9s" begin="-4.5s" repeatCount="indefinite" path="M60 26 H1140 V374 H60 Z"/></circle>
+  </g>
   <g class="float">
     <text x="600" y="150" text-anchor="middle"
       font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif"
