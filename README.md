@@ -59,7 +59,7 @@
 
 <br clear="both">
 <p align="center">
-<img src="assets/bandung-night.svg?v=2" width="100%" alt="Bandung at night" />
+<img src="assets/bandung-night.svg?v=3" width="100%" alt="Bandung at night" />
 </p>
 <p align="center">
   <img

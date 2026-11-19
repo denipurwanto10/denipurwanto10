@@ -20,6 +20,8 @@
 <linearGradient id="rmg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <linearGradient id="cone" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff3c4" stop-opacity=".55"/><stop offset="1" stop-color="#fff3c4" stop-opacity="0"/></linearGradient>
 <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+<radialGradient id="vg" cx=".5" cy=".5" r=".75"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#02040d" stop-opacity=".55"/></radialGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity=".8"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".8"/><stop offset="1" stop-color="#ffc857" stop-opacity=".8"/></linearGradient>
 <mask id="rm"><rect x="0" y="238" width="1200" height="62" fill="url(#rmg)"/></mask>
 <mask id="mm"><rect width="1200" height="300" fill="#fff"/><circle cx="1082" cy="52" r="19" fill="#000"/></mask>
 <clipPath id="c"><rect width="1200" height="300" rx="22"/></clipPath>
@@ -41,8 +43,10 @@
 @keyframes cl{from{transform:translateX(-320px)}to{transform:translateX(1400px)}}
 .ms{animation:ms 45s linear infinite}
 @keyframes ms{from{transform:translateX(-260px)}to{transform:translateX(1360px)}}
-.dash{animation:dash 1.2s linear infinite}
-@keyframes dash{to{stroke-dashoffset:-48}}
+.ss{animation:ss 9s ease-in infinite 2s;opacity:0}
+.ff{animation:ff 7s ease-in-out infinite;opacity:0}
+@keyframes ss{0%,86%{opacity:0;transform:translate(780px,14px)}88%{opacity:1}100%{opacity:0;transform:translate(1040px,112px)}}
+@keyframes ff{0%,100%{transform:translate(0,0);opacity:0}25%{opacity:.9}50%{transform:translate(14px,-12px);opacity:.3}75%{transform:translate(-8px,-22px);opacity:.9}}
 .r{stroke:#b9c6ff;stroke-width:1;stroke-linecap:round;opacity:.3;animation:rn 1s linear infinite}
 .r2{animation-duration:1.3s;animation-delay:-.4s}.r3{animation-duration:.8s;animation-delay:-.2s;opacity:.22}
 .r4{animation-duration:1.15s;animation-delay:-.7s}.r5{animation-duration:.95s;animation-delay:-.5s;opacity:.2}
@@ -60,6 +64,10 @@
 <g clip-path="url(#c)">
 <rect width="1200" height="300" fill="url(#sky)"/>
 <rect width="1200" height="300" fill="url(#hz)"/>
+<g fill="#e0e7ff"><circle class="tw" cx="40" cy="20" r="1.2" style="animation-delay:-.4s"/><circle class="tw" cx="96" cy="64" r=".9" style="animation-delay:-1.2s"/><circle class="tw" cx="150" cy="14" r="1.1" style="animation-delay:-2.1s"/><circle class="tw" cx="232" cy="46" r="1.3" style="animation-delay:-.9s"/><circle class="tw" cx="300" cy="12" r=".9" style="animation-delay:-2.7s"/><circle class="tw" cx="352" cy="72" r="1" style="animation-delay:-1.6s"/><circle class="tw" cx="410" cy="30" r="1.4" style="animation-delay:-.2s"/><circle class="tw" cx="468" cy="58" r=".9" style="animation-delay:-3s"/><circle class="tw" cx="505" cy="16" r="1.1" style="animation-delay:-1.9s"/><circle class="tw" cx="660" cy="26" r="1.2" style="animation-delay:-.7s"/><circle class="tw" cx="712" cy="66" r=".9" style="animation-delay:-2.4s"/><circle class="tw" cx="760" cy="12" r="1.3" style="animation-delay:-1.4s"/><circle class="tw" cx="815" cy="48" r="1" style="animation-delay:-.1s"/><circle class="tw" cx="870" cy="22" r="1.2" style="animation-delay:-2.9s"/><circle class="tw" cx="930" cy="70" r=".9" style="animation-delay:-1.1s"/><circle class="tw" cx="985" cy="34" r="1.1" style="animation-delay:-2.2s"/><circle class="tw" cx="1030" cy="14" r="1.3" style="animation-delay:-.6s"/><circle class="tw" cx="1140" cy="26" r="1" style="animation-delay:-1.7s"/><circle class="tw" cx="1176" cy="72" r="1.2" style="animation-delay:-2.5s"/><circle class="tw" cx="26" cy="96" r=".8" style="animation-delay:-.3s"/><circle class="tw" cx="270" cy="90" r=".8" style="animation-delay:-1.3s"/><circle class="tw" cx="450" cy="100" r=".9" style="animation-delay:-2s"/><circle class="tw" cx="735" cy="98" r=".8" style="animation-delay:-.8s"/><circle class="tw" cx="890" cy="96" r=".9" style="animation-delay:-2.6s"/></g>
+<circle cx="1076" cy="52" r="70" fill="url(#moonglow)"/>
+<circle cx="1074" cy="52" r="19" fill="#e0e7ff" mask="url(#mm)" filter="url(#glow)"/>
+<line class="ss" x1="0" y1="0" x2="-80" y2="-30" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>
 <g filter="url(#cloudb)"><g class="cl" fill="#3a4272" fill-opacity=".55"><ellipse cx="120" cy="40" rx="110" ry="16"/><ellipse cx="210" cy="52" rx="80" ry="13"/></g><g class="cl" style="animation-delay:-28s" fill="#2f3766" fill-opacity=".5"><ellipse cx="90" cy="86" rx="130" ry="14"/></g><g class="cl" style="animation-delay:-50s" fill="#3a4272" fill-opacity=".45"><ellipse cx="60" cy="24" rx="100" ry="12"/></g></g>
 <path d="M0,196 C70,178 160,146 260,114 S380,86 410,84 L520,86 C566,92 620,112 700,122 S860,150 960,150 S1120,160 1200,176 V240 H0Z" fill="url(#m1)"/>
 <path d="M0,208 C120,192 220,172 330,162 S520,142 620,152 S800,176 900,178 S1100,188 1200,194 V240 H0Z" fill="url(#m2)"/>
@@ -117,14 +125,14 @@
 <g class="ms"><ellipse cx="100" cy="224" rx="200" ry="14" fill="url(#mist)"/><ellipse cx="420" cy="214" rx="130" ry="10" fill="url(#mist)"/></g>
 <g class="ms" style="animation-delay:-22s"><ellipse cx="100" cy="228" rx="240" ry="12" fill="url(#mist)"/></g>
 <circle cx="96" cy="214" r="18" fill="url(#lamp)"/><rect x="95.2" y="214" width="1.6" height="22" fill="#4b5688"/><circle cx="96" cy="213" r="2.2" fill="#fff1c1"/>
-<ellipse cx="96" cy="256" rx="14" ry="30" fill="#ffd98a" opacity=".07"/>
+<ellipse cx="96" cy="256" rx="16" ry="30" fill="#ffd98a" opacity=".14"/>
 <circle cx="300" cy="214" r="18" fill="url(#lamp)"/><rect x="299.2" y="214" width="1.6" height="22" fill="#4b5688"/><circle cx="300" cy="213" r="2.2" fill="#fff1c1"/>
-<ellipse cx="300" cy="256" rx="14" ry="30" fill="#ffd98a" opacity=".07"/>
+<ellipse cx="300" cy="256" rx="16" ry="30" fill="#ffd98a" opacity=".14"/>
 <circle cx="904" cy="214" r="18" fill="url(#lamp)"/><rect x="903.2" y="214" width="1.6" height="22" fill="#4b5688"/><circle cx="904" cy="213" r="2.2" fill="#fff1c1"/>
-<ellipse cx="904" cy="256" rx="14" ry="30" fill="#ffd98a" opacity=".07"/>
+<ellipse cx="904" cy="256" rx="16" ry="30" fill="#ffd98a" opacity=".14"/>
 <circle cx="1100" cy="214" r="18" fill="url(#lamp)"/><rect x="1099.2" y="214" width="1.6" height="22" fill="#4b5688"/><circle cx="1100" cy="213" r="2.2" fill="#fff1c1"/>
-<ellipse cx="1100" cy="256" rx="14" ry="30" fill="#ffd98a" opacity=".07"/>
-<line x1="0" y1="270" x2="1200" y2="270" stroke="#3b4672" stroke-width="2" stroke-dasharray="24 24" class="dash"/>
+<ellipse cx="1100" cy="256" rx="16" ry="30" fill="#ffd98a" opacity=".14"/>
+<g><line x1="0" y1="298" x2="1200" y2="298" stroke="#5b6aa8" stroke-opacity=".4" stroke-width="1.4"/><line x1="0" y1="270" x2="1200" y2="270" stroke="#ffc857" stroke-opacity=".18" stroke-width="6" stroke-dasharray="28 20"/><line x1="0" y1="270" x2="1200" y2="270" stroke="#ffd98a" stroke-opacity=".85" stroke-width="2.2" stroke-dasharray="28 20" stroke-linecap="round"/></g>
 <ellipse class="rp" cx="367" cy="268" rx="8" ry="2" style="animation-delay:1.33s"/>
 <ellipse class="rp" cx="663" cy="262" rx="8" ry="2" style="animation-delay:0.88s"/>
 <ellipse class="rp" cx="1176" cy="259" rx="8" ry="2" style="animation-delay:2.13s"/>
@@ -191,13 +199,16 @@
 <line class="r r4" x1="261" y1="-15" x2="258" y2="-4" style="animation-delay:-0.01s"/>
 <line class="r r2" x1="611" y1="-1" x2="608" y2="10" style="animation-delay:-0.31s"/>
 <g>
+<rect width="1200" height="300" fill="url(#vg)"/>
+<g filter="url(#glow)" fill="#fde68a"><circle class="ff" cx="140" cy="228" r="1.6"/><circle class="ff" cx="330" cy="222" r="1.5" style="animation-delay:-2s"/><circle class="ff" cx="470" cy="230" r="1.7" style="animation-delay:-4s"/><circle class="ff" cx="700" cy="226" r="1.5" style="animation-delay:-1s"/><circle class="ff" cx="860" cy="232" r="1.6" style="animation-delay:-3s"/><circle class="ff" cx="1010" cy="224" r="1.7" style="animation-delay:-5s"/><circle class="ff" cx="1150" cy="229" r="1.5" style="animation-delay:-6s"/></g>
 <rect x="28" y="18" width="348" height="118" rx="18" fill="#0b1126" fill-opacity=".45"/>
 <rect x="28" y="18" width="348" height="118" rx="18" fill="url(#glass)" stroke="#fff" stroke-opacity=".16"/>
-<text x="46" y="42" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#6f7aa8"><tspan fill="#a78bfa">❯</tspan> <tspan fill="#ffc857">curl</tspan> wttr.in/bandung</text>
+<text x="46" y="42" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#6f7aa8"><tspan fill="#a78bfa">❯</tspan> <tspan fill="#ffc857">curl</tspan> wttr.in/bandung</text><rect class="bc" x="214" y="31" width="7" height="13" rx="1" fill="#a78bfa"/>
 <text x="46" y="98" font-family="Inter,'SF Pro Display','Segoe UI',system-ui,sans-serif" font-size="46" font-weight="700" fill="#fff">23<tspan font-size="20" font-weight="500" fill="#a5b4fc" dy="-18">°C</tspan></text>
 <text x="158" y="80" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="17" font-weight="600" fill="#e8ecff">Gerimis</text>
 <text x="158" y="99" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8f9bc9">H 27° · L 22°</text>
 <g transform="translate(322 62)"><path d="M8 24H27a7 7 0 0 0 .8-13.9A10 10 0 0 0 8 12.4 6 6 0 0 0 8 24Z" fill="#c7d2fe"/><line class="dr" x1="12" y1="29" x2="10" y2="34"/><line class="dr" style="animation-delay:.4s" x1="19" y1="29" x2="17" y2="34"/><line class="dr" style="animation-delay:.8s" x1="26" y1="29" x2="24" y2="34"/></g>
 <text x="46" y="122" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" fill="#5d678f">// gerimis tipis, cocok ngoding sambil ngopi</text>
+<rect x="770" y="22" width="215" height="28" rx="14" fill="#0b1126" fill-opacity=".45"/><rect x="770" y="22" width="215" height="28" rx="14" fill="url(#glass)" stroke="#fff" stroke-opacity=".16"/><circle class="bc" cx="789" cy="36" r="3.5" fill="#34d399"/><text x="801" y="40" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#cbd5ff">Gedung Sate Â· Kota Kembang</text>
 </g>
-</g><rect x=".5" y=".5" width="1199" height="299" rx="22" fill="none" stroke="#22d3ee" stroke-opacity=".55"/></svg>
+</g><rect x=".75" y=".75" width="1198.5" height="298.5" rx="22" fill="none" stroke="url(#bd)" stroke-width="1.5"/></svg>
