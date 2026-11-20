@@ -24,10 +24,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,nodejs,typescript,tailwind,astro,docker,firebase,flutter,figma,dart,javascript,laravel,vercel,supabase,php,python,mysql,nextjs,cloudflare,kotlin,postgresql,gcp,vue,git,github,go&perline=12"
-    alt="Tech Stack"
-  >
+  <img src="./assets/skills.svg?v=1" alt="Tech stack: frontend, backend, mobile, database, cloud and tools" width="100%">
 </p>
 
 <img src="./assets/divider.svg?v=2" alt="divider" width="110%">
