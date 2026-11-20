@@ -26,7 +26,7 @@ jobs:
           output-path: 'game.gif'
           strategy: 'random'
 
-      - name: Recolor game (yellow blocks, red ship)
+      - name: Recolor game (cyan blocks, green ship, purple bullets)
         run: |
           python -m pip install --quiet pillow numpy
           python scripts/recolor_game.py game.gif

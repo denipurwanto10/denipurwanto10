@@ -1,17 +1,21 @@
 #!/usr/bin/env python3
-"""Recolor the space shooter GIF: green blocks -> yellow, blue ship -> red, yellow bullets -> cyan.
+"""Recolor the space shooter GIF: blocks -> cyan, ship -> green, bullets -> purple.
 
-Usage: python scripts/recolor_game.py game.gif
+Usage:
+  python scripts/recolor_game.py game.gif                  # GIF fresh from the generator
+  python scripts/recolor_game.py game.gif --from-current   # GIF already recolored (yellow blocks, red ship, cyan bullets)
 """
 import sys
 import numpy as np
 from PIL import Image, ImageSequence
 
-PATH = sys.argv[1] if len(sys.argv) > 1 else "game.gif"
+args = [a for a in sys.argv[1:] if not a.startswith("--")]
+FROM_CURRENT = "--from-current" in sys.argv
+PATH = args[0] if args else "game.gif"
 
-YELLOW_HUE = 48.0   # degrees
-RED_HUE = 0.0
 CYAN_HUE = 182.0
+GREEN_HUE = 130.0
+PURPLE_HUE = 272.0
 
 
 def recolor(rgb):
@@ -31,15 +35,23 @@ def recolor(rgb):
     v = mx
 
     colored = (s > 0.35) & (v > 0.2)
-    green = colored & (h >= 80) & (h <= 170)
-    blue = colored & (h >= 190) & (h <= 260)
-    bullet = colored & (h >= 38) & (h <= 68)  # original yellow bullets
+
+    if FROM_CURRENT:
+        # current GIF: yellow blocks -> cyan, red ship -> green, cyan bullets -> purple
+        blocks = colored & (h >= 38) & (h <= 68)
+        ship = colored & ((h <= 15) | (h >= 345))
+        bullet = colored & (h >= 170) & (h <= 200)
+    else:
+        # generator output: green blocks -> cyan, blue ship -> green, yellow bullets -> purple
+        blocks = colored & (h >= 80) & (h <= 170)
+        ship = colored & (h >= 190) & (h <= 260)
+        bullet = colored & (h >= 38) & (h <= 68)
 
     h2 = h.copy()
-    h2[green] = YELLOW_HUE
-    h2[blue] = RED_HUE
-    h2[bullet] = CYAN_HUE
-    changed = green | blue | bullet
+    h2[blocks] = CYAN_HUE
+    h2[ship] = GREEN_HUE
+    h2[bullet] = PURPLE_HUE
+    changed = blocks | ship | bullet
 
     # HSV -> RGB
     c = v * s
@@ -56,19 +68,20 @@ def recolor(rgb):
 
     result = rgb.copy()
     result[changed] = out[changed]
-    return result, int(green.sum()), int(blue.sum())
+    return result, int(blocks.sum()), int(ship.sum()), int(bullet.sum())
 
 
 src = Image.open(PATH)
 loop = src.info.get("loop", 0)
 frames, durations = [], []
-total_g = total_b = 0
+tot_blocks = tot_ship = tot_bullet = 0
 for frame in ImageSequence.Iterator(src):
     durations.append(frame.info.get("duration", 40))
     rgb = np.array(frame.convert("RGB"))
-    new, g, b = recolor(rgb)
-    total_g += g
-    total_b += b
+    new, nb, ns, nbu = recolor(rgb)
+    tot_blocks += nb
+    tot_ship += ns
+    tot_bullet += nbu
     frames.append(Image.fromarray(new))
 
 frames[0].save(
@@ -80,4 +93,4 @@ frames[0].save(
     optimize=False,
     disposal=1,
 )
-print(f"{PATH}: {len(frames)} frame, piksel hijau->kuning: {total_g}, biru->merah: {total_b}")
+print(f"{PATH}: {len(frames)} frame, kotak->cyan: {tot_blocks}, pesawat->hijau: {tot_ship}, tembakan->ungu: {tot_bullet}")
