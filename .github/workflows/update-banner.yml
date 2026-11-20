@@ -2,7 +2,7 @@ name: Update weather banner
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # tiap 30 menit
+    - cron: "17 * * * *"  # target tiap 1 jam, menit ke-17 (GitHub tidak menjamin tepat waktu)
   push:
     paths:
       - "scripts/update_banner.py"
