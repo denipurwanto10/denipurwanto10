@@ -13,7 +13,7 @@
 
 <img src="./assets/divider.svg?v=2" alt="divider" width="100%">
 
-## About Me
+<img src="./assets/h-about.svg?v=1" alt="About Me" width="100%">
 
 <p align="center">
   <img src="./assets/about.svg?v=1" alt="About Deni Purwanto" width="100%">
@@ -21,7 +21,7 @@
 
 <img src="./assets/divider.svg?v=2" alt="divider" width="100%">
 
-## Skills
+<img src="./assets/h-skills.svg?v=1" alt="Skills" width="100%">
 
 <p align="center">
   <img src="./assets/skills.svg?v=2" alt="Tech stack" width="100%">
@@ -29,7 +29,7 @@
 
 <img src="./assets/divider.svg?v=2" alt="divider" width="100%">
 
-## GitHub Stats
+<img src="./assets/h-stats.svg?v=1" alt="GitHub Stats" width="100%">
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 <img src="./assets/divider.svg?v=2" alt="divider" width="100%">
 
-## Contribution Graph
+<img src="./assets/h-graph.svg?v=1" alt="Contribution Graph" width="100%">
 
 <p align="center">
   <img
