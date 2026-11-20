@@ -15,10 +15,9 @@
 
 ## 🚀 About Me
 
-* 🎓 Bachelor of Informatics Engineering – Universitas Langlangbuana
-* 💡 Passionate about **Web Development** and **Mobile Development**
-* 🌍 Based in **Bandung, Indonesia**
-* 🔐 Concerned with **secure, scalable, and maintainable** code
+<p align="center">
+  <img src="./assets/about.svg?v=1" alt="About Deni Purwanto" width="100%">
+</p>
 
 <img src="./assets/divider.svg?v=2" alt="divider" width="110%">
 
