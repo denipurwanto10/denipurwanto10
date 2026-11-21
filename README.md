@@ -54,9 +54,9 @@
 <img src="./assets/divider.svg?v=2" alt="divider" width="100%">
 
 <br clear="both">
-<p align="center">
+<!-- <p align="center">
 <img src="assets/bandung-night.svg?v=4" width="100%" alt="Bandung at night" />
-</p>
+</p> -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=denipurwanto10&style=flat-square&color=7b5cff"
