@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Bandung, 21°C, berawan">
-<title>Bandung — 21°C, berawan</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Bandung, 22°C, berawan">
+<title>Bandung — 22°C, berawan</title>
 <defs>
 <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050813"/><stop offset=".55" stop-color="#101734"/><stop offset="1" stop-color="#2b2c5e"/></linearGradient>
 <radialGradient id="hz" cx=".5" cy="1" r=".6"><stop offset="0" stop-color="#7c6bff" stop-opacity=".35"/><stop offset="1" stop-color="#7c6bff" stop-opacity="0"/></radialGradient>
@@ -176,7 +176,7 @@
 <rect x="28" y="18" width="348" height="118" rx="18" fill="#0b1126" fill-opacity=".45"/>
 <rect x="28" y="18" width="348" height="118" rx="18" fill="url(#glass)" stroke="#fff" stroke-opacity=".16"/>
 <text x="46" y="42" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#6f7aa8"><tspan fill="#a78bfa">❯</tspan> <tspan fill="#ffc857">curl</tspan> wttr.in/bandung</text><rect class="bc" x="214" y="31" width="7" height="13" rx="1" fill="#a78bfa"/>
-<text x="46" y="98" font-family="Inter,'SF Pro Display','Segoe UI',system-ui,sans-serif" font-size="46" font-weight="700" fill="#fff">21<tspan font-size="20" font-weight="500" fill="#a5b4fc" dy="-18">°C</tspan></text>
+<text x="46" y="98" font-family="Inter,'SF Pro Display','Segoe UI',system-ui,sans-serif" font-size="46" font-weight="700" fill="#fff">22<tspan font-size="20" font-weight="500" fill="#a5b4fc" dy="-18">°C</tspan></text>
 <text x="158" y="80" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="17" font-weight="600" fill="#e8ecff">Berawan</text>
 <text x="158" y="99" font-family="Inter,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8f9bc9">H 29° · L 21°</text>
 <g transform="translate(322 62)"><path d="M8 24H27a7 7 0 0 0 .8-13.9A10 10 0 0 0 8 12.4 6 6 0 0 0 8 24Z" fill="#c7d2fe"/></g>
